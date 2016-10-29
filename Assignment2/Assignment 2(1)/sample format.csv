@@ -1,0 +1,12 @@
+Account,Date,kWh,month,day,year,hour,Day of Week,Weekday,Peakhour,Temperature,Dew_PointF,Humidity,Sea_Level_PressureIn,VisibilityMPH,Wind_Direction,Wind_SpeedMPH,Conditions,WindDirDegrees
+26435791004,1/1/2014,81.285,1,1,2014,0,3,1,0,42,5,46,30.2,10,WNW,8.1,Clear,290
+26435791004,1/1/2014,81.705,1,1,2014,1,3,1,0,44,3.9,46,30.23,10,WNW,11.5,Partly Cloudy,290
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
